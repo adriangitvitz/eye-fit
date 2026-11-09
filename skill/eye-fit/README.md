@@ -7,8 +7,8 @@ Made for anyone bothered by glare, halos, bright text or too many colors.
 ## Install
 
 ```sh
-git clone https://github.com/adriangitvitz/colorsenv
-cp -r colorsenv/skill/eye-fit ~/.claude/skills/
+git clone https://github.com/adriangitvitz/eye-fit
+cp -r eye-fit/skill/eye-fit ~/.claude/skills/
 ```
 
 It needs Node 18 or newer. There are no other dependencies.
