@@ -1,0 +1,64 @@
+{
+  "dark-soft": {
+    "description": "Dark, warm and dim. Start here if bright text, glare or long sessions bother you.",
+    "mode": "dark",
+    "background": { "L": 0.235, "C": 0.011, "H": 72 },
+    "hue": 75,
+    "contrast": { "text": 70, "mid": 68, "low": 63, "comment": 56 },
+    "chroma": 0.012,
+    "accent": 0.03,
+    "signal": 0.03
+  },
+  "dark-balanced": {
+    "description": "Dark, warm, everyday contrast with a little color on strings and constants.",
+    "mode": "dark",
+    "background": { "L": 0.26, "C": 0.012, "H": 70 },
+    "hue": 75,
+    "contrast": { "text": 80, "mid": 75, "low": 68, "comment": 60 },
+    "chroma": 0.015,
+    "accent": 0.05,
+    "signal": 0.06
+  },
+  "dark-crisp": {
+    "description": "Dark, cool grey, high contrast, warm strings. For people who want sharp text.",
+    "mode": "dark",
+    "background": { "L": 0.22, "C": 0.008, "H": 250 },
+    "hue": 250,
+    "contrast": { "text": 90, "mid": 83, "low": 74, "comment": 62 },
+    "chroma": 0.015,
+    "accent": 0.07,
+    "accentHue": 80,
+    "signal": 0.09
+  },
+  "light-soft": {
+    "description": "Light, sand-colored paper, gentle contrast. For glare-sensitive eyes that prefer light mode.",
+    "mode": "light",
+    "background": { "L": 0.88, "C": 0.018, "H": 78 },
+    "hue": 75,
+    "contrast": { "text": 65, "mid": 59, "low": 52, "comment": 45 },
+    "chroma": 0.012,
+    "accent": 0.03,
+    "signal": 0.04
+  },
+  "light-balanced": {
+    "description": "Light, warm off-white, everyday contrast.",
+    "mode": "light",
+    "background": { "L": 0.93, "C": 0.014, "H": 80 },
+    "hue": 70,
+    "contrast": { "text": 78, "mid": 70, "low": 62, "comment": 54 },
+    "chroma": 0.015,
+    "accent": 0.05,
+    "signal": 0.07
+  },
+  "light-crisp": {
+    "description": "Light, near-white cool grey, high contrast, warm strings.",
+    "mode": "light",
+    "background": { "L": 0.97, "C": 0.005, "H": 250 },
+    "hue": 250,
+    "contrast": { "text": 90, "mid": 82, "low": 72, "comment": 60 },
+    "chroma": 0.02,
+    "accent": 0.08,
+    "accentHue": 50,
+    "signal": 0.1
+  }
+}
